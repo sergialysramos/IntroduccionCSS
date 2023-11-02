@@ -1,0 +1,19 @@
+body {
+    background-image: url(https://images.unsplash.com/photo-1609623096082-ed982304b689?auto=format&fit=crop&q=80&w=1000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2xvdWRzJTIwYWVzdGhldGljfGVufDB8fDB8fHww); 
+    background-attachment: fixed;
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 5% 30% 5% 30%;
+}
+
+h1 {
+    text-align: center;
+}
+
+.principal-li {
+    color:green
+}
+.secundaria-li {
+    color: red;
+}
