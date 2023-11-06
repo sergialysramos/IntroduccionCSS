@@ -11,9 +11,10 @@ h1 {
     text-align: center;
 }
 
-.principal-li {
-    color:green
-}
-.secundaria-li {
+.par {
     color: red;
+}
+
+.principal {
+    color:green
 }

@@ -7,19 +7,34 @@ body {
     margin: 5% 30% 5% 30%;
 }
 
-header {
+#h1p1 {
     text-align: center;
     color:aquamarine;
 }
 
-main {
+#h1p2 {
+    text-align: center;
+    color:chocolate
+}
+
+#main1p1 {
     background-color: rgb(238, 143, 170);
     border-radius: 20px;
     padding: 10%;
 }
 
-footer {
-    color:yellow
+#main1p2 {
+    background-color:darkseagreen;
+    border-radius: 20px;
+    padding: 10%;
+}
+
+#pie1p1 {
+    color:yellow;
+}
+
+#pie1p2 {
+    color:darkgreen;
 }
 
 
